@@ -1,0 +1,34 @@
+[
+    {
+        "title": "EEEEE",
+        "author": "Richard V.",
+        "ratings": [
+            {
+                "stars": 5,
+                "message": "Loved it!",
+                "author":  "rater_1"
+            },
+            {
+                "stars": 3.4,
+                "message": "Eh.  This was an okay book.  The fact that the book only used the capital letter \"E\" felt a bit unoriginal.  Nevertheless, I enjoyed some parts of it.",
+                "author":  "floof_77"
+            }
+        ]
+    },
+    {
+        "title": "243 Pages of James Complaining About That Dog That Just Won't Shut Up",
+        "author": "James J. Jimmy",
+        "ratings": [
+            {
+                "stars": 5,
+                "message": "This book resonated with me on a spiritual level.  5/5, no questions asked.",
+                "author":  "floof_77"
+            },
+            {
+                "stars": 0,
+                "message": "He Was Mean To DOGS That's So Rud de :(:(L(L(",
+                "author": "jjjjjj_26"
+            }
+        ]
+    }
+]

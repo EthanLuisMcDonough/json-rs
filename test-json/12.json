@@ -1,0 +1,12 @@
+{
+    "animals": [
+        "dog",
+        "frog",
+        "kangaroo",
+        "crab"
+    ],
+    "members": {
+        "John": 1,
+        "Ferris": 3
+    }
+}

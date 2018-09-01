@@ -1,0 +1,6 @@
+[package]
+name = "json-rs"
+version = "0.1.0"
+authors = ["Ethan Luis McDonough <elmcdonough@comcast.net>"]
+
+[dependencies]
